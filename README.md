@@ -1,5 +1,5 @@
 # HouseHUNTER
-Python code - utilising SendGrid API to email you for faster property notification than via RightMoves email notifications
+Python code - utilising SendGrid API to email you for faster property notification than RightMove's email notifications
 
 This Python Flask application monitors Rightmove for new property listings and sends email notifications using SendGrid when new listings are detected. It's designed to run locally and check for new listings upon accessing the root URL of the Flask server.
 
